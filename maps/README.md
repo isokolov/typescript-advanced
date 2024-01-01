@@ -1,0 +1,2 @@
+- npx parcel index.html
+- npmjs, @faker
